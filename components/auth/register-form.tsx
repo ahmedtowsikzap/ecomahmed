@@ -85,7 +85,7 @@ export const RegisterForm = () => {
                     <FormControl>
                       <Input
                         {...field}
-                        placeholder="ahmedzap@gmail.com"
+                        placeholder="farhan@gmail.com"
                         type="email"
                         autoComplete="email"
                       />
