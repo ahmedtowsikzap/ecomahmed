@@ -17,7 +17,7 @@ export default function Logo() {
         letterSpacing="2"
         fill="currentColor"
       >
-        ecom
+        Cafe
       </text>
     </svg>
   )
